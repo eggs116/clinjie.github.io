@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://peihao.space/album/edit.json</loc>
+    
+    <lastmod>2017-12-31T14:59:36.086Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://peihao.space/2017/10/09/autumn/</loc>
     
     <lastmod>2017-12-31T11:07:56.703Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://peihao.space/2017/06/09/summer/</loc>
     
     <lastmod>2017-12-31T10:57:28.172Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://peihao.space/album/edit.json</loc>
-    
-    <lastmod>2017-12-31T10:54:10.644Z</lastmod>
     
   </url>
   
